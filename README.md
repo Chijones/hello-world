@@ -1,3 +1,3 @@
 # hello-world
 first sample repository
-Just learning about giyhub.   
+Just learning about github.   
